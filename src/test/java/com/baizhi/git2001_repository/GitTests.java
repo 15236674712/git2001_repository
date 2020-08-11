@@ -14,6 +14,9 @@ public class GitTests {
 
         System.out.println("===");
         System.out.println("===");
+        System.out.println("--dev--");
+        System.out.println("--dev2--");
+        System.out.println("--dev3--");
 
     }
 
