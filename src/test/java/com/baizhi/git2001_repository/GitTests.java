@@ -25,6 +25,10 @@ public class GitTests {
         int b = 20;
         int bb = 20;
 
+        System.out.println(a);
+        System.out.println(b);
+        System.out.println(bb);
+
     }
 
 }
