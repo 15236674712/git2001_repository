@@ -23,6 +23,7 @@ public class GitTests {
 
         int a = 20;
         int b = 20;
+        int bb = 20;
 
     }
 
