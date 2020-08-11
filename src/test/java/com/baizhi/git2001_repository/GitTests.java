@@ -25,6 +25,11 @@ public class GitTests {
         int b = 20;
         int bb = 20;
 
+        for (int i = 0; i < 200; i++) {
+
+            System.out.println(i);
+        }
+
     }
 
 }
